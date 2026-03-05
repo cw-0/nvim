@@ -36,9 +36,8 @@ Download and set up the configuration files:
 
 ```bash
 cd ~/.config/
-git clone -b AstroNvim https://github.com/cw-0/NeoVim-Config.git
-mv NeoVim-Config/nvim .
-rm -rf NeoVim-Config
+git clone https://github.com/cw-0/nvim.git
+cd nvim
 ```
 
 ### 3. Initial Launch
